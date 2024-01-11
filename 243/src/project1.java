@@ -7,5 +7,7 @@ public class project1 {
 		System.out.println("github hello world");
 		System.out.println("hello");
 	}
-
+    void display() {
+    	System.out.println("branch pull request");
+    }
 }
